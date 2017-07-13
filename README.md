@@ -1,1 +1,1 @@
-# A simple model that uses livbevent
+# some C/C++ examples
